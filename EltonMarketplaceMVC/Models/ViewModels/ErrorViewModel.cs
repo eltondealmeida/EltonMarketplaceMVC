@@ -1,6 +1,6 @@
 using System;
 
-namespace EltonMarketplaceMVC.Models
+namespace EltonMarketplaceMVC.Models.ViewModels
 {
     public class ErrorViewModel
     {

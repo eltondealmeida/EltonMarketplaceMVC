@@ -1,4 +1,4 @@
-﻿using EltonMarketplaceMVC.Models;
+﻿using EltonMarketplaceMVC.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;

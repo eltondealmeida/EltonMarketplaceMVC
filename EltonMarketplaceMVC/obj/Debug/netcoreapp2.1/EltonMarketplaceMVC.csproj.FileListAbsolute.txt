@@ -34,3 +34,4 @@ C:\Users\elton\source\repos\EltonMarketplaceMVC\EltonMarketplaceMVC\obj\Debug\ne
 C:\Users\elton\source\repos\EltonMarketplaceMVC\EltonMarketplaceMVC\obj\Debug\netcoreapp2.1\EltonMarketplaceMVC.pdb
 C:\Users\elton\source\repos\EltonMarketplaceMVC\EltonMarketplaceMVC\obj\Debug\netcoreapp2.1\EltonMarketplaceMVC.genruntimeconfig.cache
 C:\Users\elton\source\repos\EltonMarketplaceMVC\EltonMarketplaceMVC\obj\Debug\netcoreapp2.1\EltonMarketplaceMVC.csproj.CopyComplete
+C:\Users\elton\source\repos\EltonMarketplaceMVC\EltonMarketplaceMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
