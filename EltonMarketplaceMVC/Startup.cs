@@ -11,6 +11,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using EltonMarketplaceMVC.Data;
+using EltonMarketplaceMVC.Services;
 
 namespace EltonMarketplaceMVC
 {
@@ -40,6 +41,7 @@ namespace EltonMarketplaceMVC
                     options.UseSqlServer(Configuration.GetConnectionString("EltonMarketplaceMVCContext")));
 
             services.AddScoped<SeedingService>();
+            services.AddScoped<SellerService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
